@@ -1,0 +1,80 @@
+{
+  "avaliacoes": [
+    {
+      "idAluno": 1,
+      "idTurma": 1,
+      "respostas": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ]
+    },
+    {
+      "idAluno": 2,
+      "idTurma": 1,
+      "respostas": [
+        "a",
+        "b",
+        "",
+        "d",
+        "e",
+        "",
+        "a"
+      ]
+    },
+    {
+      "idAluno": 3,
+      "idTurma": 1,
+      "respostas": [
+        "a",
+        "b",
+        "",
+        "d",
+        "e",
+        "f",
+        "g"
+      ]
+    },
+    {
+      "idAluno": 4,
+      "idTurma": 1,
+      "respostas": [
+        "a",
+        "b",
+        "",
+        "d",
+        "e",
+        "f",
+        "g"
+      ]
+    },
+    {
+      "idAluno": 5,
+      "idTurma": 1,
+      "respostas": [
+        "a",
+        "b",
+        "a",
+        "d",
+        "",
+        "f",
+        ""
+      ]
+    }
+  ],
+  "gabarito": {
+    "respostas": [
+      "a",
+      "b",
+      "",
+      "d",
+      "e",
+      "f",
+      "g"
+    ]
+  }
+}
